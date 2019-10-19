@@ -1,4 +1,4 @@
-import java.io .*;
+import java.io.*;
 
 public class Triangles{
     public static void main(String[]args){
